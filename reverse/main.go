@@ -34,5 +34,5 @@ func main() {
 	result2 := blueOcean([]int{1, 2, 3, 4, 6, 10}, []int{1})
 
 	fmt.Printf("%v\n", result)
-	fmt.Printf("%v\n", result2) // Should print [1 2 4]
+	fmt.Printf("%v\n", result2) 
 }
